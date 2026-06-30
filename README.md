@@ -260,7 +260,7 @@ Demonstrates full-stack ML engineering: data pipeline design, model evaluation, 
 | **Data Pipeline Scale** | 100M+ records/day processed; 99.9% uptime SLA |
 | **Code Quality** | 95%+ branch coverage; SOLID compliance audits pass |
 | **Team Velocity** | Code review time -60%; deployment frequency: 5x/week |
-| **Business Impact** | Systems I've built: +\$2.5M revenue impact, -70% operational costs, +45% user retention |
+| **Business Impact** | Systems I've built: +$2.5M revenue impact, -70% operational costs, +45% user retention |
 
 ---
 
@@ -270,10 +270,11 @@ I'm actively pursuing roles in **Software Engineering, Data Science, and Cyber S
 
 ### Get in Touch
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/jawaehamaung](https://linkedin.com/in/jawaehamaung)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-🔗 **GitHub:** [github.com/joymoung](https://github.com/joymoung)
+📧 **Email:** [joymoung@gmail.com](mailto:joymoung@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jaw-ae-maung-861b06159/](https://www.linkedin.com/in/jaw-ae-maung-861b06159/)  
+🌐 **Portfolio:** [new-portfolio-joy.vercel.app](https://new-portfolio-joy.vercel.app/)  
+🔗 **GitHub:** [github.com/joymoung](https://github.com/joymoung)  
+📱 **Facebook:** [facebook.com/joy.jawaemoung](https://www.facebook.com/joy.jawaemoung)
 
 ### Collaboration Interests
 
