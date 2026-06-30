@@ -11,7 +11,7 @@
 
 Data-driven Software Engineer with an **M.Sc. in Data Science** specializing in architecting business intelligence pipelines and scalable data systems. Expert in Python, predictive modeling, and API development with hands-on experience translating raw analytics into operationally efficient system architectures.
 
-**Current Role:** Data & Operations Manager at **Gari-import.com.bd** (Aug 2024 – Present)  
+**Current Role:** Sales & Operations Manager at **Gari-import.com.bd** (Aug 2024 – Present)  
 **Core Strength:** Designing modular data processing systems and interactive BI dashboards that optimize workflows and directly drive revenue growth.
 
 My approach: **engineer for impact, not just features.** Every system I build optimizes for three dimensions:
