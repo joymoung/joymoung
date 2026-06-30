@@ -18,17 +18,14 @@ My approach: **engineer for impact, not just features.** Every system I build op
 
 ---
 
-## 📊 GitHub Performance Dashboard
+## 📊 Core Competencies at a Glance
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joymoung&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joymoung&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joymoung&theme=dark&hide_border=true)
-
-</div>
+| Category | Expertise |
+|----------|-----------|
+| **Data Science & Analytics** | Python, SQL, Neo4j, Power BI, Tableau, Real-time Analytics, MLOps |
+| **Software Engineering** | SOLID Principles, TDD (90%+ coverage), Distributed Systems, API-First Design, Clean Code |
+| **Infrastructure & DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD, Linux, Shell Scripting, Observability |
+| **Cloud & Tools** | GitHub, GitLab, AWS, Monitoring, Logging, Tracing, Performance Optimization |
 
 ---
 
@@ -294,8 +291,6 @@ I'm actively pursuing roles in **Software Engineering, Data Science, and Cyber S
 <div align="center">
 
 ### 🚀 *Building Systems. Driving Impact. Shipping Excellence.* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=joymoung&color=0D1117&style=flat-square&label=Profile%20Views)
 
 **Open to technical discussions, collaboration, and role opportunities.**  
 **Let's build something meaningful together.** 🌟
