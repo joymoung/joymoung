@@ -18,31 +18,15 @@ My approach: **engineer for impact, not just features.** Every system I build op
 
 ---
 
-## 📊 Engineering Metrics & Code Intelligence
+## 📊 GitHub Performance Dashboard
 
 <div align="center">
 
-### GitHub Performance Dashboard
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joymoung&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=joymoung&show_icons=true&theme=transparent&hide_border=false&rank_icon=percentile&count_private=true&show=reviews,prs_merged,prs_merged_percentage&card_width=500&include_all_commits=true)](https://github.com/joymoung)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joymoung&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
----
-
-### Technology Proficiency Analysis
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joymoung&layout=donut&theme=transparent&hide_border=false&size_weight=0.5&count_weight=0.5&hide=html,css,javascript&card_width=500&langs_count=10)](https://github.com/joymoung)
-
----
-
-### Contribution Streak & Consistency
-
-[![GitHub Streak Stats](https://streak-stats.demolab.com?user=joymoung&theme=transparent&hide_border=false&background=transparent&stroke=808080&ring=4A90E2&fire=FF6B6B&currStreakNum=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=808080&hide_total_contributions=false&hide_current_streak=false)](https://github.com/joymoung)
-
----
-
-### Contribution Graph & Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joymoung&theme=transparent&hide_border=false&hide_title=false&area=true&custom_title=Annual%20Contribution%20Activity)
+![GitHub Streak](https://streak-stats.demolab.com?user=joymoung&theme=dark&hide_border=true)
 
 </div>
 
