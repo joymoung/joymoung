@@ -15,7 +15,7 @@ class JoyMaung:
         self.name = "Jaw Ae Maung (Joy)"
         self.title = "Data Engineer × Systems Architect"
         self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.current_role = "Data & Operations Manager @ Gari-import.com.bd"
+        self.current_role = "Sales & Operations Manager @ Gari-import.com.bd"
         self.coffee_consumed = float('inf')  # ☕ Infinite
         self.bugs_fixed = 9999
         self.bugs_created = 10000  # 📊 Still learning!
