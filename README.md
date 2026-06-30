@@ -32,7 +32,7 @@ Data-driven Software Engineer with an **M.Sc. in Data Science** and proven exper
 
 ### **Gari-import.com.bd** | Dhaka, Bangladesh
 
-#### Data & Operations Manager (Sales & Marketing) | Aug 2024 – Present
+#### Sales & Operations Manager (Sales & Marketing) | Aug 2024 – Present
 
 **Impact:**
 - 📊 **Designed & deployed modular Power BI architectures** converting dynamic automotive market data into real-time business intelligence dashboards
