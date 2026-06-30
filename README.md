@@ -18,15 +18,31 @@ My approach: **engineer for impact, not just features.** Every system I build op
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 Engineering Metrics & Code Intelligence
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joymoung&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=0D1117&text_color=E8E8E8)](https://github.com/joymoung)
+### GitHub Performance Dashboard
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joymoung&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&text_color=E8E8E8&langs_count=7)](https://github.com/joymoung)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=joymoung&show_icons=true&theme=transparent&hide_border=false&rank_icon=percentile&count_private=true&show=reviews,prs_merged,prs_merged_percentage&card_width=500&include_all_commits=true)](https://github.com/joymoung)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joymoung&theme=nord&hide_border=true&background=0D1117)](https://github.com/joymoung)
+---
+
+### Technology Proficiency Analysis
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joymoung&layout=donut&theme=transparent&hide_border=false&size_weight=0.5&count_weight=0.5&hide=html,css,javascript&card_width=500&langs_count=10)](https://github.com/joymoung)
+
+---
+
+### Contribution Streak & Consistency
+
+[![GitHub Streak Stats](https://streak-stats.demolab.com?user=joymoung&theme=transparent&hide_border=false&background=transparent&stroke=808080&ring=4A90E2&fire=FF6B6B&currStreakNum=4A90E2&currStreakLabel=4A90E2&sideLabels=4A90E2&dates=808080&hide_total_contributions=false&hide_current_streak=false)](https://github.com/joymoung)
+
+---
+
+### Contribution Graph & Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joymoung&theme=transparent&hide_border=false&hide_title=false&area=true&custom_title=Annual%20Contribution%20Activity)
 
 </div>
 
@@ -212,14 +228,18 @@ Demonstrates full-stack ML engineering: data pipeline design, model evaluation, 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -227,6 +247,7 @@ Demonstrates full-stack ML engineering: data pipeline design, model evaluation, 
 ![SOLID Principles](https://img.shields.io/badge/SOLID-2E8B57?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=pytest&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-FF6B6B?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-4169E1?style=for-the-badge)
 
 </div>
 
@@ -290,9 +311,13 @@ I'm actively pursuing roles in **Software Engineering, Data Science, and Cyber S
 
 ### 🚀 *Building Systems. Driving Impact. Shipping Excellence.* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=joymoung&color=0D1117&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=joymoung&color=0D1117&style=flat-square&label=Profile%20Views)
 
 **Open to technical discussions, collaboration, and role opportunities.**  
-Let's build something meaningful.
+**Let's build something meaningful together.** 🌟
+
+---
+
+*Last Updated: June 2026 | [View Recent Activity](https://github.com/joymoung?tab=repositories)*
 
 </div>
